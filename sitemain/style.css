@@ -3,6 +3,7 @@ body{
 }
 .edosik{
     height: 400px;
+    
 }
 .name{
     color: rgba(181, 181, 181, 1);
@@ -18,4 +19,10 @@ body{
     background-color: rgba(48, 65, 82, 0.3);
     width: 1440px;
     margin-left: 40px;
+    position: relative;
+    height: 400px;
+}
+.p1{
+    color: white;
+    font-size: 25px;
 }
