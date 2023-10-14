@@ -3,7 +3,7 @@ body{
 }
 .edosik{
     height: 400px;
-    
+    border-radius: 5%;
 }
 .name{
     color: rgba(181, 181, 181, 1);
