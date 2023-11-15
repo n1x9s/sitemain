@@ -39,12 +39,12 @@ ul {
 
 li {
     display: inline-block;
-    margin-right: 20px; /* Измените это значение на ваше усмотрение */
+    margin-right: 20px; 
 }
 
-a {
-    color: rgb(255, 255, 255);
-    font-family: helvetica;
-    text-decoration: none;
-    text-transform: uppercase;
+a.text:active, /* активная/посещенная ссылка */
+a.text:hover,  /* при наведении */
+a.text {
+  text-decoration: none;
+  color: #666;
 }
